@@ -1,0 +1,37 @@
+div{
+	width : 50%;
+	margin: 25%;
+	margin-top: 100px;
+	color: white;
+	text-align: center; 
+
+}
+.balondor{
+	border: 7px solid white;
+	width: 50%;
+}
+
+p{
+	color: yellow;
+}
+
+ol{
+	margin-top: -20px ;
+	margin-left: -40px ;
+	list-style-position: inside ;
+}
+.note{
+	font-size: 20px
+}
+#id-selector-demo{
+	color: yellow;
+}
+li[value="4"]{
+	color: yellow;
+}
+li[value="2"]{
+	color: yellow;
+}
+*{
+	text-align: center;
+}
